@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    <h1> hehe </h1>
 <form action="b.php" method="POST">
         Enter an item: <input type="text" name="item"></input>
         <button>Submit</button>
