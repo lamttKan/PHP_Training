@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1> hehe </h1>
+    <h2>m bi ngu a</h2>
 <form action="b.php" method="POST">
         Enter an item: <input type="text" name="item"></input>
         <button>Submit</button>
